@@ -1,5 +1,6 @@
  
-#TDD in Three
+#Source Allies University
+#TDD Workshop
 ##New Code Exercise
 ###Setup
 * Java SDK 6 or above
