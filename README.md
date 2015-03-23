@@ -23,7 +23,7 @@
 * Mockito 1.9
 * CDI: Context and Dependency Injection plugin for Intellij IDEA Ultimate Edition
 
-###Refactor an Existing Class 
+###Test Drive Refactoring an Existing Class 
 * Create a String Calculator class with an Add method that takes in Strings.
 * Utilize CDI to inject the String Calculator into the Calculator.
 * Have the Calculator class delegate to the String Calculator class.
